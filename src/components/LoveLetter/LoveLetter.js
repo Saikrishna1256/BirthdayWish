@@ -35,10 +35,12 @@ const LoveLetter = () => {
       <div className="flap"></div>
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
-        mah dear kundanapu bomma🖤,<br />
-        never have i been so blessed as to fall in love with someone as wonderful as you...<br />i loveeee youuuu :)<br />
-        always yours,<br />
-        @niihaaarrrr
+        Many more happy returns of the day🎂 to the most important person in my life✨,<br />
+        I hope your day is as special as you are🪷💫, <br />
+        I know we are not same as before but you are always the most cheerful and lovely person whom I used to talk with A smile on my face💖, <br />
+        Regardless of everything you always have that special place in my heart and in my life🫂❣️. <br />
+        I will admire you more than anything and everything❤️❤️. <br />
+        Once again Happy Birthday Vagdevi🎊💞<br />
       </div>
       <audio ref={audioRef} src={audioFile} onError={(e) => console.error('Audio error:', e.message)} />
     </div>

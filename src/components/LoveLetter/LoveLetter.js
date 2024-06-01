@@ -27,7 +27,7 @@ const LoveLetter = () => {
         audioRef.current.pause();
       }
       setIsOpen(false);
-    }, 800);
+    }, 1000);
   };
 
   return (
@@ -36,9 +36,9 @@ const LoveLetter = () => {
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
         Many more happy returns of the day🎂 to the most important person in my life✨,<br />
-        I hope your day is as special as you are🪷💫, <br />
+        I hope your day is as special as you are💖🥳, <br />
         I know we are not same as before but you are always the most cheerful and lovely person whom I used to talk with A smile on my face💖, <br />
-        Regardless of everything you always have that special place in my heart and in my life🫂❣️. <br />
+        Regardless of everything you always have that special place in my heart and in my life♾️✨. <br />
         I will admire you more than anything and everything❤️❤️. <br />
         Once again Happy Birthday Vagdevi🎊💞<br />
       </div>
